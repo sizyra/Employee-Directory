@@ -47,8 +47,7 @@ class App extends Component {
                 id={employee.id}
                 name={employee.name}
                 role={employee.role}
-                days_in_space={employee.days_in_space}
-                final_mission={employee.final_mission}
+                years_at_roosterteeth={employee.years_at_roosterteeth}
                 filter={this.filter}
               />
             ))}

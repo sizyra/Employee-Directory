@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Michael Justin 'Burnie' Burns",
+    "role": "Co-founder",
+    "years_at_rooster_teeth": 17
+  },
+  {
+    "id": 2,
+    "name": "Matthew Jay 'Matt' Hullum",
+    "role": "Co-founder",
+    "years_at_rooster_teeth": 17
+  },
+  {
+    "id": 3,
+    "name": "Joel Pearce Heyman",
+    "role": "Co-founder",
+    "years_at_rooster_teeth": 17
+  },
+  {
+    "id": 4,
+    "name": "Gustavo Raul 'Gus' Sorola",
+    "role": "Co-founder",
+    "years_at_rooster_teeth": 17
+  },
+  {
+    "id": 5,
+    "name": "Geoffrey Lazer 'Geoff' Ramsey",
+    "role": "Co-founder",
+    "years_at_rooster_teeth": 17
+  },
+  {
+    "id": 6,
+    "name": "Gavin David Free",
+    "role": "Personality, Writer, Director",
+    "years_at_rooster_teeth": 12
+  },
+  {
+    "id": 7,
+    "name": "Miles Antony Luna",
+    "role": "Writer, Actor, Director",
+    "years_at_rooster_teeth": 6
+  }
+]
