@@ -17,7 +17,7 @@
   * [Questions](#Questions)
 
   ## Description of the Project
-  A react.js application that displays a tabel that can be sorted by head header adn filtered by role.
+  A react.js application that displays a table that can be sorted by head header adn filtered by role.
 
   ## Installation Guidelines
   If you want a local version of this app, open the destination folder in your CLI. Run 'git clone https://github.com/sizyra/Employee-Directory.git' and you're golden! Otherwise, just use the Heroku app located here: https://employee-dreictory-sz.herokuapp.com/
